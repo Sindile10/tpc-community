@@ -1,0 +1,30 @@
+ 475  cd Tpc_Community
+  476  cd documantation
+  477  touch style_guide.txt
+  478  cd ..
+  479  git init
+  480  git add .
+  481  git commit -m "The creation of folders automation_scripts and documentation within the Tpc_Community folder"
+  482  git remote add origin https://github.com/Sindile10/tpc-community.git
+  483  git push master
+  484  git push origin main
+  485  code .
+  486  git push origin main
+  487  cd ..
+  488  git push origin main
+  489  git push origin master
+  490  git push master
+  491  git push --set-upstream-master
+  492  ls -R
+  493  git remote -v
+  494  cd Tpc_Community
+  495  git remote add origin main https://github.com/Sindile10/tpc-community.git
+  496  code .
+  497  git push origin main
+  498  cd tpc_community
+  499  ls
+  500  git init
+  501  git add .
+  502  git commit -m "The creation of folders automation_scripts and documentation within the Tpc_Community folder"
+  503  git push
+  504  history
